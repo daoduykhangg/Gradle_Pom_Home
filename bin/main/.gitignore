@@ -1,5 +1,3 @@
 /commons/
-/jdbcConnect/
-/pageObjects/
 /pageUIs/
-/utilities/
+/pageObjects/

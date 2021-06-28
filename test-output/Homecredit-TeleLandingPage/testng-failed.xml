@@ -11,6 +11,7 @@
       <class name="homecredit.TeleLanding.SubmitBOD.Customer_01_Submit_New_Customer">
         <methods>
           <include name="TC_01_Submit_New_Customer_Info_No_Docs"/>
+          <include name="TC_02_Submit_New_Customer_Info_Have_Docs"/>
           <include name="beforeTest"/>
           <include name="afterTest"/>
         </methods>

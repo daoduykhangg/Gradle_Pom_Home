@@ -14,6 +14,7 @@ public class CustomerOfferPO extends AbstractPage{
 
 	public void clickToVayNgayButton() {
 		waitForElementVisibleWithScoringTime(driver, CustomerOfferPageUI.VAY_NGAY_BUTTON);
+		waitForElementInvisible(driver, CustomerOfferPageUI.LOADING_ICON);
 		clickToElement(driver, CustomerOfferPageUI.VAY_NGAY_BUTTON);
 	}
 	

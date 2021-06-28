@@ -14,6 +14,7 @@ public class XacThucVayPO extends AbstractPage {
 	}
 
 	public String generateOTPValue(String primaryPhone) {
+		waitForElementVisible(driver, XacThucVayPageUI.OTP_TEXTBOX);
 		return otpCode = generateOtpValue(primaryPhone);
 	}
 

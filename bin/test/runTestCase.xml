@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Homecredit-TeleLandingPage">
+
+	<listeners>
+		<listener class-name="commons.MethodListener" />
+	</listeners>
+
+	<parameter name="url"
+		value="https://telelandingpage.apps-nonprod.platform.hcnet.vn/prospect/25284379" />
+	<test name="Test">
+		<parameter name="browser" value="chrome_ui" />
+		<classes>
+			<class name="homecredit.TeleLanding.SubmitBOD.Customer_01_Submit_New_Customer" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
