@@ -1,0 +1,24 @@
+[INFO ] [2021-06-28 15:51:07,681] Precondition - Step 01: Open TeleLanding Page
+[INFO ] [2021-06-28 15:51:30,216] Precondition - Step 02: Click to 'Advanced' button
+[INFO ] [2021-06-28 15:51:30,285] Precondition - Step 03: Click to 'TeleLanding' Link
+[INFO ] [2021-06-28 15:51:34,594] Precondition - Step 04: Click to 'Bắt đầu vay ngay' button
+[INFO ] [2021-06-28 15:51:34,704] New Customer [No Docs] - Step 01: Enter to 'lastName' Textbox with value Bahringer
+[INFO ] [2021-06-28 15:51:35,342] New Customer [No Docs] - Step 02: Enter to 'middleName' Textbox with value AMRIT ACLND KRGA
+[INFO ] [2021-06-28 15:51:35,965] New Customer [No Docs] - Step 03: Enter to 'firstName' Textbox with value Bahringer
+[INFO ] [2021-06-28 15:51:36,552] New Customer [No Docs] - Step 04: Enter to 'primaryPhone' Textbox with value 0762532794
+[INFO ] [2021-06-28 15:51:37,158] New Customer [No Docs] - Step 05: Click to 'MALE' RadioButton
+[INFO ] [2021-06-28 15:51:37,212] New Customer [No Docs] - Step 06: Enter to 'birthday' Textbox with value 28 / 06 / 2021
+[INFO ] [2021-06-28 15:51:37,962] New Customer [No Docs] - Step 07: Enter to 'income' Textbox with value 76263181
+[INFO ] [2021-06-28 15:51:39,185] New Customer [No Docs] - Step 08: Enter to 'homeId' Textbox with value uatuser01_tls
+[INFO ] [2021-06-28 15:51:39,797] New Customer [No Docs] - Step 09: Enter to 'idNumber' Textbox with value 750358366
+[INFO ] [2021-06-28 15:51:40,399] New Customer [No Docs] - Step 10: Enter to 'licenseNumber' Textbox with value 415605760
+[INFO ] [2021-06-28 15:51:41,008] New Customer [No Docs] - Step 11: Click to 'Kiểm tra ngay' Button
+[INFO ] [2021-06-28 15:51:46,073] New Customer [No Docs] - Step 12: Generate OTP value with 'primaryPhone'=0762532794
+[INFO ] [2021-06-28 15:51:46,433] New Customer [No Docs] - Step 13: Enter OTP value to 'OTP' Textbox
+[INFO ] [2021-06-28 15:51:47,018] New Customer [No Docs] - Step 14: Click to 'Tôi đồng ý' Checkbox
+[INFO ] [2021-06-28 15:51:47,073] New Customer [No Docs] - Step 15: Click to 'Xác nhận' Button
+[INFO ] [2021-06-28 15:51:47,134] New Customer [No Docs] - Step 16: Click to First 'Bỏ qua' button 
+[INFO ] [2021-06-28 15:51:49,107] New Customer [No Docs] - Step 17: Click to Second 'Bỏ qua' button 
+[INFO ] [2021-06-28 15:51:54,158] New Customer [No Docs] - Step 18: Click to 'VAY NGAY' Button
+[INFO ] [2021-06-28 15:53:23,494] OS name = windows 10
+[INFO ] [2021-06-28 15:53:24,262] ---------- QUIT BROWSER SUCCESS ----------

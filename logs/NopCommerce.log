@@ -1,0 +1,439 @@
+[INFO ] [2021-06-23 23:21:07,901] Precondition - Step 01: Open TeleLanding Page
+[INFO ] [2021-06-23 23:21:30,503] Precondition - Step 02: Click to 'Advanced' button
+[INFO ] [2021-06-23 23:21:30,563] Precondition - Step 03: Click to 'TeleLanding' Link
+[INFO ] [2021-06-23 23:21:35,358] Precondition - Step 04: Click to 'Bắt đầu vay ngay' button
+[INFO ] [2021-06-23 23:21:35,472] New Customer [No Docs] - Step 01: Enter to 'lastName' Textbox
+[INFO ] [2021-06-23 23:21:36,055] New Customer [No Docs] - Step 02: Enter to 'middleName' Textbox
+[INFO ] [2021-06-23 23:21:36,635] New Customer [No Docs] - Step 03: Enter to 'firstName' Textbox
+[INFO ] [2021-06-23 23:21:37,218] New Customer [No Docs] - Step 04: Enter to 'primaryPhone' Textbox
+[INFO ] [2021-06-23 23:21:37,799] New Customer [No Docs] - Step 05: Click to 'MALE' RadioButton
+[INFO ] [2021-06-23 23:21:37,855] New Customer [No Docs] - Step 06: Enter to 'birthday' Textbox
+[INFO ] [2021-06-23 23:21:38,737] New Customer [No Docs] - Step 07: Enter to 'income' Textbox
+[INFO ] [2021-06-23 23:21:39,308] New Customer [No Docs] - Step 08: Enter to 'idNumber' Textbox
+[INFO ] [2021-06-23 23:21:39,877] New Customer [No Docs] - Step 09: Enter to 'homeId' Textbox
+[INFO ] [2021-06-23 23:21:40,459] New Customer [No Docs] - Step 10: Enter to 'licenseNumber' Textbox
+[INFO ] [2021-06-23 23:23:01,632] Precondition - Step 01: Open TeleLanding Page
+[INFO ] [2021-06-23 23:23:24,178] Precondition - Step 02: Click to 'Advanced' button
+[INFO ] [2021-06-23 23:23:24,236] Precondition - Step 03: Click to 'TeleLanding' Link
+[INFO ] [2021-06-23 23:23:27,964] Precondition - Step 04: Click to 'Bắt đầu vay ngay' button
+[INFO ] [2021-06-23 23:23:28,065] New Customer [No Docs] - Step 01: Enter to 'lastName' Textbox
+[INFO ] [2021-06-23 23:23:28,636] New Customer [No Docs] - Step 02: Enter to 'middleName' Textbox
+[INFO ] [2021-06-23 23:23:29,223] New Customer [No Docs] - Step 03: Enter to 'firstName' Textbox
+[INFO ] [2021-06-23 23:23:29,808] New Customer [No Docs] - Step 04: Enter to 'primaryPhone' Textbox
+[INFO ] [2021-06-23 23:23:30,388] New Customer [No Docs] - Step 05: Click to 'MALE' RadioButton
+[INFO ] [2021-06-23 23:23:30,441] New Customer [No Docs] - Step 06: Enter to 'birthday' Textbox
+[INFO ] [2021-06-23 23:23:31,024] New Customer [No Docs] - Step 07: Enter to 'income' Textbox
+[INFO ] [2021-06-23 23:23:32,217] New Customer [No Docs] - Step 08: Enter to 'idNumber' Textbox
+[INFO ] [2021-06-23 23:23:32,795] New Customer [No Docs] - Step 09: Enter to 'homeId' Textbox
+[INFO ] [2021-06-23 23:23:33,376] New Customer [No Docs] - Step 10: Enter to 'licenseNumber' Textbox
+[INFO ] [2021-06-23 23:36:46,012] Precondition - Step 01: Open TeleLanding Page
+[INFO ] [2021-06-23 23:37:08,627] Precondition - Step 02: Click to 'Advanced' button
+[INFO ] [2021-06-23 23:37:08,684] Precondition - Step 03: Click to 'TeleLanding' Link
+[INFO ] [2021-06-23 23:37:11,598] Precondition - Step 04: Click to 'Bắt đầu vay ngay' button
+[INFO ] [2021-06-23 23:37:11,711] New Customer [No Docs] - Step 01: Enter to 'lastName' Textbox
+[INFO ] [2021-06-23 23:37:12,293] New Customer [No Docs] - Step 02: Enter to 'middleName' Textbox
+[INFO ] [2021-06-23 23:37:12,872] New Customer [No Docs] - Step 03: Enter to 'firstName' Textbox
+[INFO ] [2021-06-23 23:37:13,457] New Customer [No Docs] - Step 04: Enter to 'primaryPhone' Textbox
+[INFO ] [2021-06-23 23:37:14,035] New Customer [No Docs] - Step 05: Click to 'MALE' RadioButton
+[INFO ] [2021-06-23 23:37:14,096] New Customer [No Docs] - Step 06: Enter to 'birthday' Textbox
+[INFO ] [2021-06-23 23:37:14,690] New Customer [No Docs] - Step 07: Enter to 'income' Textbox
+[INFO ] [2021-06-23 23:37:15,247] New Customer [No Docs] - Step 08: Enter to 'homeId' Textbox
+[INFO ] [2021-06-23 23:37:15,814] New Customer [No Docs] - Step 09: Enter to 'idNumber' Textbox
+[INFO ] [2021-06-23 23:37:16,385] New Customer [No Docs] - Step 10: Enter to 'licenseNumber' Textbox
+[INFO ] [2021-06-23 23:39:40,641] Precondition - Step 01: Open TeleLanding Page
+[INFO ] [2021-06-23 23:40:03,189] Precondition - Step 02: Click to 'Advanced' button
+[INFO ] [2021-06-23 23:40:03,244] Precondition - Step 03: Click to 'TeleLanding' Link
+[INFO ] [2021-06-23 23:40:06,117] Precondition - Step 04: Click to 'Bắt đầu vay ngay' button
+[INFO ] [2021-06-23 23:40:06,220] New Customer [No Docs] - Step 01: Enter to 'lastName' Textbox
+[INFO ] [2021-06-23 23:40:06,823] New Customer [No Docs] - Step 02: Enter to 'middleName' Textbox
+[INFO ] [2021-06-23 23:40:07,404] New Customer [No Docs] - Step 03: Enter to 'firstName' Textbox
+[INFO ] [2021-06-23 23:40:07,985] New Customer [No Docs] - Step 04: Enter to 'primaryPhone' Textbox
+[INFO ] [2021-06-23 23:40:08,593] New Customer [No Docs] - Step 05: Click to 'MALE' RadioButton
+[INFO ] [2021-06-23 23:40:08,653] New Customer [No Docs] - Step 06: Enter to 'birthday' Textbox
+[INFO ] [2021-06-23 23:40:09,259] New Customer [No Docs] - Step 07: Enter to 'income' Textbox
+[INFO ] [2021-06-23 23:40:09,861] New Customer [No Docs] - Step 08: Enter to 'homeId' Textbox
+[INFO ] [2021-06-23 23:40:11,090] New Customer [No Docs] - Step 09: Enter to 'idNumber' Textbox
+[INFO ] [2021-06-23 23:40:11,685] New Customer [No Docs] - Step 10: Enter to 'licenseNumber' Textbox
+[INFO ] [2021-06-24 00:00:11,762] Precondition - Step 01: Open TeleLanding Page
+[INFO ] [2021-06-24 00:00:34,326] Precondition - Step 02: Click to 'Advanced' button
+[INFO ] [2021-06-24 00:00:34,382] Precondition - Step 03: Click to 'TeleLanding' Link
+[INFO ] [2021-06-24 00:00:40,489] Precondition - Step 04: Click to 'Bắt đầu vay ngay' button
+[INFO ] [2021-06-24 00:00:40,605] New Customer [No Docs] - Step 01: Enter to 'lastName' Textbox
+[INFO ] [2021-06-24 00:00:41,224] New Customer [No Docs] - Step 02: Enter to 'middleName' Textbox
+[INFO ] [2021-06-24 00:00:41,841] New Customer [No Docs] - Step 03: Enter to 'firstName' Textbox
+[INFO ] [2021-06-24 00:00:42,431] New Customer [No Docs] - Step 04: Enter to 'primaryPhone' Textbox
+[INFO ] [2021-06-24 00:00:43,246] New Customer [No Docs] - Step 05: Click to 'MALE' RadioButton
+[INFO ] [2021-06-24 00:00:43,302] New Customer [No Docs] - Step 06: Enter to 'birthday' Textbox
+[INFO ] [2021-06-24 00:00:43,890] New Customer [No Docs] - Step 07: Enter to 'income' Textbox
+[INFO ] [2021-06-24 00:00:44,488] New Customer [No Docs] - Step 08: Enter to 'homeId' Textbox
+[INFO ] [2021-06-24 00:00:45,073] New Customer [No Docs] - Step 09: Enter to 'idNumber' Textbox
+[INFO ] [2021-06-24 00:00:45,661] New Customer [No Docs] - Step 10: Enter to 'licenseNumber' Textbox
+[INFO ] [2021-06-24 00:07:20,096] Precondition - Step 01: Open TeleLanding Page
+[INFO ] [2021-06-24 00:07:42,636] Precondition - Step 02: Click to 'Advanced' button
+[INFO ] [2021-06-24 00:07:42,703] Precondition - Step 03: Click to 'TeleLanding' Link
+[INFO ] [2021-06-24 00:07:47,258] Precondition - Step 04: Click to 'Bắt đầu vay ngay' button
+[INFO ] [2021-06-24 00:07:47,360] New Customer [No Docs] - Step 01: Enter to 'lastName' Textbox
+[INFO ] [2021-06-24 00:07:47,971] New Customer [No Docs] - Step 02: Enter to 'middleName' Textbox
+[INFO ] [2021-06-24 00:07:48,598] New Customer [No Docs] - Step 03: Enter to 'firstName' Textbox
+[INFO ] [2021-06-24 00:07:49,179] New Customer [No Docs] - Step 04: Enter to 'primaryPhone' Textbox
+[INFO ] [2021-06-24 00:07:49,774] New Customer [No Docs] - Step 05: Click to 'MALE' RadioButton
+[INFO ] [2021-06-24 00:07:49,834] New Customer [No Docs] - Step 06: Enter to 'birthday' Textbox
+[INFO ] [2021-06-24 00:07:50,028] New Customer [No Docs] - Step 07: Enter to 'income' Textbox
+[INFO ] [2021-06-24 00:07:50,630] New Customer [No Docs] - Step 08: Enter to 'homeId' Textbox
+[INFO ] [2021-06-24 00:07:51,852] New Customer [No Docs] - Step 09: Enter to 'idNumber' Textbox
+[INFO ] [2021-06-24 00:07:52,459] New Customer [No Docs] - Step 10: Enter to 'licenseNumber' Textbox
+[INFO ] [2021-06-24 00:28:43,802] Precondition - Step 01: Open TeleLanding Page
+[INFO ] [2021-06-24 00:29:06,478] Precondition - Step 02: Click to 'Advanced' button
+[INFO ] [2021-06-24 00:29:06,536] Precondition - Step 03: Click to 'TeleLanding' Link
+[INFO ] [2021-06-24 00:29:14,135] Precondition - Step 04: Click to 'Bắt đầu vay ngay' button
+[INFO ] [2021-06-24 00:29:14,251] New Customer [No Docs] - Step 01: Enter to 'lastName' Textbox
+[INFO ] [2021-06-24 00:29:14,866] New Customer [No Docs] - Step 02: Enter to 'middleName' Textbox
+[INFO ] [2021-06-24 00:29:15,484] New Customer [No Docs] - Step 03: Enter to 'firstName' Textbox
+[INFO ] [2021-06-24 00:29:16,070] New Customer [No Docs] - Step 04: Enter to 'primaryPhone' Textbox
+[INFO ] [2021-06-24 00:29:16,674] New Customer [No Docs] - Step 05: Click to 'MALE' RadioButton
+[INFO ] [2021-06-24 00:29:16,729] New Customer [No Docs] - Step 06: Enter to 'birthday' Textbox
+[INFO ] [2021-06-24 00:29:17,952] New Customer [No Docs] - Step 07: Enter to 'income' Textbox
+[INFO ] [2021-06-24 00:29:18,545] New Customer [No Docs] - Step 08: Enter to 'homeId' Textbox
+[INFO ] [2021-06-24 00:29:19,433] New Customer [No Docs] - Step 09: Enter to 'idNumber' Textbox
+[INFO ] [2021-06-24 00:29:20,022] New Customer [No Docs] - Step 10: Enter to 'licenseNumber' Textbox
+[INFO ] [2021-06-24 00:29:54,847] Precondition - Step 01: Open TeleLanding Page
+[INFO ] [2021-06-24 00:30:17,488] Precondition - Step 02: Click to 'Advanced' button
+[INFO ] [2021-06-24 00:30:17,546] Precondition - Step 03: Click to 'TeleLanding' Link
+[INFO ] [2021-06-24 00:30:20,656] Precondition - Step 04: Click to 'Bắt đầu vay ngay' button
+[INFO ] [2021-06-24 00:30:20,759] New Customer [No Docs] - Step 01: Enter to 'lastName' Textbox
+[INFO ] [2021-06-24 00:30:21,390] New Customer [No Docs] - Step 02: Enter to 'middleName' Textbox
+[INFO ] [2021-06-24 00:30:22,011] New Customer [No Docs] - Step 03: Enter to 'firstName' Textbox
+[INFO ] [2021-06-24 00:30:22,604] New Customer [No Docs] - Step 04: Enter to 'primaryPhone' Textbox
+[INFO ] [2021-06-24 00:30:23,200] New Customer [No Docs] - Step 05: Click to 'MALE' RadioButton
+[INFO ] [2021-06-24 00:30:23,259] New Customer [No Docs] - Step 06: Enter to 'birthday' Textbox
+[INFO ] [2021-06-24 00:30:24,003] New Customer [No Docs] - Step 07: Enter to 'income' Textbox
+[INFO ] [2021-06-24 00:30:24,859] New Customer [No Docs] - Step 08: Enter to 'homeId' Textbox
+[INFO ] [2021-06-24 00:30:25,484] New Customer [No Docs] - Step 09: Enter to 'idNumber' Textbox
+[INFO ] [2021-06-24 00:30:26,077] New Customer [No Docs] - Step 10: Enter to 'licenseNumber' Textbox
+[INFO ] [2021-06-24 00:31:22,201] Precondition - Step 01: Open TeleLanding Page
+[INFO ] [2021-06-24 00:31:44,738] Precondition - Step 02: Click to 'Advanced' button
+[INFO ] [2021-06-24 00:31:44,795] Precondition - Step 03: Click to 'TeleLanding' Link
+[INFO ] [2021-06-24 00:31:50,835] Precondition - Step 04: Click to 'Bắt đầu vay ngay' button
+[INFO ] [2021-06-24 00:31:50,945] New Customer [No Docs] - Step 01: Enter to 'lastName' Textbox
+[INFO ] [2021-06-24 00:31:51,556] New Customer [No Docs] - Step 02: Enter to 'middleName' Textbox
+[INFO ] [2021-06-24 00:31:52,184] New Customer [No Docs] - Step 03: Enter to 'firstName' Textbox
+[INFO ] [2021-06-24 00:31:52,771] New Customer [No Docs] - Step 04: Enter to 'primaryPhone' Textbox
+[INFO ] [2021-06-24 00:31:53,371] New Customer [No Docs] - Step 05: Click to 'MALE' RadioButton
+[INFO ] [2021-06-24 00:31:53,424] New Customer [No Docs] - Step 06: Enter to 'birthday' Textbox
+[INFO ] [2021-06-24 00:31:54,175] New Customer [No Docs] - Step 07: Enter to 'income' Textbox
+[INFO ] [2021-06-24 00:31:54,777] New Customer [No Docs] - Step 08: Enter to 'homeId' Textbox
+[INFO ] [2021-06-24 00:31:55,359] New Customer [No Docs] - Step 09: Enter to 'idNumber' Textbox
+[INFO ] [2021-06-24 00:31:55,956] New Customer [No Docs] - Step 10: Enter to 'licenseNumber' Textbox
+[INFO ] [2021-06-24 00:31:56,838] New Customer [No Docs] - Step 11: Click to 'Kiểm tra ngay' Button
+[INFO ] [2021-06-24 00:32:01,901] OS name = windows 10
+[INFO ] [2021-06-24 00:32:02,650] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-06-24 00:33:14,796] Precondition - Step 01: Open TeleLanding Page
+[INFO ] [2021-06-24 00:33:38,632] Precondition - Step 02: Click to 'Advanced' button
+[INFO ] [2021-06-24 00:33:38,691] Precondition - Step 03: Click to 'TeleLanding' Link
+[INFO ] [2021-06-24 00:33:41,939] Precondition - Step 04: Click to 'Bắt đầu vay ngay' button
+[INFO ] [2021-06-24 00:33:42,042] New Customer [No Docs] - Step 01: Enter to 'lastName' Textbox
+[INFO ] [2021-06-24 00:33:42,650] New Customer [No Docs] - Step 02: Enter to 'middleName' Textbox
+[INFO ] [2021-06-24 00:33:43,269] New Customer [No Docs] - Step 03: Enter to 'firstName' Textbox
+[INFO ] [2021-06-24 00:33:43,860] New Customer [No Docs] - Step 04: Enter to 'primaryPhone' Textbox
+[INFO ] [2021-06-24 00:33:44,462] New Customer [No Docs] - Step 05: Click to 'MALE' RadioButton
+[INFO ] [2021-06-24 00:33:44,515] New Customer [No Docs] - Step 06: Enter to 'birthday' Textbox
+[INFO ] [2021-06-24 00:33:45,877] New Customer [No Docs] - Step 07: Enter to 'income' Textbox
+[INFO ] [2021-06-24 00:33:46,465] New Customer [No Docs] - Step 08: Enter to 'homeId' Textbox
+[INFO ] [2021-06-24 00:33:47,056] New Customer [No Docs] - Step 09: Enter to 'idNumber' Textbox
+[INFO ] [2021-06-24 00:33:47,652] New Customer [No Docs] - Step 10: Enter to 'licenseNumber' Textbox
+[INFO ] [2021-06-24 00:33:48,260] New Customer [No Docs] - Step 11: Click to 'Kiểm tra ngay' Button
+[INFO ] [2021-06-24 00:33:53,325] OS name = windows 10
+[INFO ] [2021-06-24 00:33:54,097] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-06-24 13:07:38,952] Precondition - Step 01: Open TeleLanding Page
+[INFO ] [2021-06-24 13:08:02,333] Precondition - Step 02: Click to 'Advanced' button
+[INFO ] [2021-06-24 13:08:02,397] Precondition - Step 03: Click to 'TeleLanding' Link
+[INFO ] [2021-06-24 13:08:07,929] Precondition - Step 04: Click to 'Bắt đầu vay ngay' button
+[INFO ] [2021-06-24 13:08:08,044] New Customer [No Docs] - Step 01: Enter to 'lastName' Textbox with value Larson
+[INFO ] [2021-06-24 13:08:08,655] New Customer [No Docs] - Step 02: Enter to 'middleName' Textbox with value AMRIT ACLND KRGA
+[INFO ] [2021-06-24 13:08:09,281] New Customer [No Docs] - Step 03: Enter to 'firstName' Textbox with value Larson
+[INFO ] [2021-06-24 13:08:09,872] New Customer [No Docs] - Step 04: Enter to 'primaryPhone' Textbox with value 0227090856
+[INFO ] [2021-06-24 13:08:10,484] New Customer [No Docs] - Step 05: Click to 'MALE' RadioButton
+[INFO ] [2021-06-24 13:08:10,539] New Customer [No Docs] - Step 06: Enter to 'birthday' Textbox with value 24 / 06 / 2021
+[INFO ] [2021-06-24 13:08:11,285] New Customer [No Docs] - Step 07: Enter to 'income' Textbox with value 30765267
+[INFO ] [2021-06-24 13:08:11,885] New Customer [No Docs] - Step 08: Enter to 'homeId' Textbox with value uatuser01_tls
+[INFO ] [2021-06-24 13:08:13,146] New Customer [No Docs] - Step 09: Enter to 'idNumber' Textbox with value 879428898
+[INFO ] [2021-06-24 13:08:13,742] New Customer [No Docs] - Step 10: Enter to 'licenseNumber' Textbox with value 375270311
+[INFO ] [2021-06-24 13:08:14,347] New Customer [No Docs] - Step 11: Click to 'Kiểm tra ngay' Button
+[INFO ] [2021-06-24 13:08:19,418] New Customer [No Docs] - Step 12: Generate OTP value with 'primaryPhone'=0227090856
+[INFO ] [2021-06-24 13:08:19,749] New Customer [No Docs] - Step 13: Enter OTP value to 'OTP' Textbox
+[INFO ] [2021-06-24 13:08:20,352] New Customer [No Docs] - Step 14: Click to 'Tôi đồng ý' Checkbox
+[INFO ] [2021-06-24 13:08:20,408] New Customer [No Docs] - Step 15: Click to 'Xác nhận' Button
+[INFO ] [2021-06-24 13:08:40,463] OS name = windows 10
+[INFO ] [2021-06-24 13:08:41,211] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-06-24 13:09:28,339] Precondition - Step 01: Open TeleLanding Page
+[INFO ] [2021-06-24 13:09:50,925] Precondition - Step 02: Click to 'Advanced' button
+[INFO ] [2021-06-24 13:09:50,982] Precondition - Step 03: Click to 'TeleLanding' Link
+[INFO ] [2021-06-24 13:09:54,396] Precondition - Step 04: Click to 'Bắt đầu vay ngay' button
+[INFO ] [2021-06-24 13:09:54,501] New Customer [No Docs] - Step 01: Enter to 'lastName' Textbox with value Kemmer
+[INFO ] [2021-06-24 13:09:55,113] New Customer [No Docs] - Step 02: Enter to 'middleName' Textbox with value AMRIT ACLND KRGA
+[INFO ] [2021-06-24 13:09:55,736] New Customer [No Docs] - Step 03: Enter to 'firstName' Textbox with value Kemmer
+[INFO ] [2021-06-24 13:09:56,326] New Customer [No Docs] - Step 04: Enter to 'primaryPhone' Textbox with value 0716877212
+[INFO ] [2021-06-24 13:09:56,929] New Customer [No Docs] - Step 05: Click to 'MALE' RadioButton
+[INFO ] [2021-06-24 13:09:56,984] New Customer [No Docs] - Step 06: Enter to 'birthday' Textbox with value 24 / 06 / 2021
+[INFO ] [2021-06-24 13:09:57,732] New Customer [No Docs] - Step 07: Enter to 'income' Textbox with value 25238566
+[INFO ] [2021-06-24 13:09:58,351] New Customer [No Docs] - Step 08: Enter to 'homeId' Textbox with value uatuser01_tls
+[INFO ] [2021-06-24 13:09:58,954] New Customer [No Docs] - Step 09: Enter to 'idNumber' Textbox with value 699792523
+[INFO ] [2021-06-24 13:10:00,176] New Customer [No Docs] - Step 10: Enter to 'licenseNumber' Textbox with value 558866513
+[INFO ] [2021-06-24 13:10:00,782] New Customer [No Docs] - Step 11: Click to 'Kiểm tra ngay' Button
+[INFO ] [2021-06-24 13:10:05,844] New Customer [No Docs] - Step 12: Generate OTP value with 'primaryPhone'=0716877212
+[INFO ] [2021-06-24 13:10:06,197] New Customer [No Docs] - Step 13: Enter OTP value to 'OTP' Textbox
+[INFO ] [2021-06-24 13:10:06,797] New Customer [No Docs] - Step 14: Click to 'Tôi đồng ý' Checkbox
+[INFO ] [2021-06-24 13:10:06,851] New Customer [No Docs] - Step 15: Click to 'Xác nhận' Button
+[INFO ] [2021-06-24 13:10:11,916] OS name = windows 10
+[INFO ] [2021-06-24 13:10:12,589] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-06-24 14:10:28,895] Precondition - Step 01: Open TeleLanding Page
+[INFO ] [2021-06-24 14:10:51,485] Precondition - Step 02: Click to 'Advanced' button
+[INFO ] [2021-06-24 14:10:51,551] Precondition - Step 03: Click to 'TeleLanding' Link
+[INFO ] [2021-06-24 14:10:54,933] Precondition - Step 04: Click to 'Bắt đầu vay ngay' button
+[INFO ] [2021-06-24 14:10:55,049] New Customer [No Docs] - Step 01: Enter to 'lastName' Textbox with value Kerluke
+[INFO ] [2021-06-24 14:10:55,672] New Customer [No Docs] - Step 02: Enter to 'middleName' Textbox with value AMRIT ACLND KRGA
+[INFO ] [2021-06-24 14:10:56,287] New Customer [No Docs] - Step 03: Enter to 'firstName' Textbox with value Kerluke
+[INFO ] [2021-06-24 14:10:56,885] New Customer [No Docs] - Step 04: Enter to 'primaryPhone' Textbox with value 0829608820
+[INFO ] [2021-06-24 14:10:57,487] New Customer [No Docs] - Step 05: Click to 'MALE' RadioButton
+[INFO ] [2021-06-24 14:10:57,540] New Customer [No Docs] - Step 06: Enter to 'birthday' Textbox with value 24 / 06 / 2021
+[INFO ] [2021-06-24 14:10:58,279] New Customer [No Docs] - Step 07: Enter to 'income' Textbox with value 23965837
+[INFO ] [2021-06-24 14:10:58,872] New Customer [No Docs] - Step 08: Enter to 'homeId' Textbox with value uatuser01_tls
+[INFO ] [2021-06-24 14:10:59,475] New Customer [No Docs] - Step 09: Enter to 'idNumber' Textbox with value 077289154
+[INFO ] [2021-06-24 14:11:00,075] New Customer [No Docs] - Step 10: Enter to 'licenseNumber' Textbox with value 078040889
+[INFO ] [2021-06-24 14:11:00,668] New Customer [No Docs] - Step 11: Click to 'Kiểm tra ngay' Button
+[INFO ] [2021-06-24 14:11:05,738] New Customer [No Docs] - Step 12: Generate OTP value with 'primaryPhone'=0829608820
+[INFO ] [2021-06-24 14:11:06,113] New Customer [No Docs] - Step 13: Enter OTP value to 'OTP' Textbox
+[INFO ] [2021-06-24 14:11:06,736] New Customer [No Docs] - Step 14: Click to 'Tôi đồng ý' Checkbox
+[INFO ] [2021-06-24 14:11:06,790] New Customer [No Docs] - Step 15: Click to 'Xác nhận' Button
+[INFO ] [2021-06-24 14:11:26,831] OS name = windows 10
+[INFO ] [2021-06-24 14:11:27,549] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-06-24 14:11:39,394] Precondition - Step 01: Open TeleLanding Page
+[INFO ] [2021-06-24 14:12:01,863] Precondition - Step 02: Click to 'Advanced' button
+[INFO ] [2021-06-24 14:12:01,929] Precondition - Step 03: Click to 'TeleLanding' Link
+[INFO ] [2021-06-24 14:12:04,799] Precondition - Step 04: Click to 'Bắt đầu vay ngay' button
+[INFO ] [2021-06-24 14:12:04,900] New Customer [No Docs] - Step 01: Enter to 'lastName' Textbox with value Armstrong
+[INFO ] [2021-06-24 14:12:05,530] New Customer [No Docs] - Step 02: Enter to 'middleName' Textbox with value AMRIT ACLND KRGA
+[INFO ] [2021-06-24 14:12:06,149] New Customer [No Docs] - Step 03: Enter to 'firstName' Textbox with value Armstrong
+[INFO ] [2021-06-24 14:12:06,748] New Customer [No Docs] - Step 04: Enter to 'primaryPhone' Textbox with value 0068763993
+[INFO ] [2021-06-24 14:12:07,353] New Customer [No Docs] - Step 05: Click to 'MALE' RadioButton
+[INFO ] [2021-06-24 14:12:07,407] New Customer [No Docs] - Step 06: Enter to 'birthday' Textbox with value 24 / 06 / 2021
+[INFO ] [2021-06-24 14:12:08,135] New Customer [No Docs] - Step 07: Enter to 'income' Textbox with value 26090358
+[INFO ] [2021-06-24 14:12:08,753] New Customer [No Docs] - Step 08: Enter to 'homeId' Textbox with value uatuser01_tls
+[INFO ] [2021-06-24 14:12:09,355] New Customer [No Docs] - Step 09: Enter to 'idNumber' Textbox with value 724157991
+[INFO ] [2021-06-24 14:12:09,971] New Customer [No Docs] - Step 10: Enter to 'licenseNumber' Textbox with value 174874616
+[INFO ] [2021-06-24 14:12:10,564] New Customer [No Docs] - Step 11: Click to 'Kiểm tra ngay' Button
+[INFO ] [2021-06-24 14:12:15,625] New Customer [No Docs] - Step 12: Generate OTP value with 'primaryPhone'=0068763993
+[INFO ] [2021-06-24 14:12:15,981] New Customer [No Docs] - Step 13: Enter OTP value to 'OTP' Textbox
+[INFO ] [2021-06-24 14:12:16,565] New Customer [No Docs] - Step 14: Click to 'Tôi đồng ý' Checkbox
+[INFO ] [2021-06-24 14:12:16,620] New Customer [No Docs] - Step 15: Click to 'Xác nhận' Button
+[INFO ] [2021-06-24 14:12:16,671] New Customer [No Docs] - Step 16: Click to First 'Bỏ qua' button 
+[INFO ] [2021-06-24 14:12:18,662] New Customer [No Docs] - Step 17: Click to Second 'Bỏ qua' button 
+[INFO ] [2021-06-24 14:12:23,711] OS name = windows 10
+[INFO ] [2021-06-24 14:12:24,383] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-06-24 15:33:45,747] Precondition - Step 01: Open TeleLanding Page
+[INFO ] [2021-06-24 15:34:08,485] Precondition - Step 02: Click to 'Advanced' button
+[INFO ] [2021-06-24 15:34:08,546] Precondition - Step 03: Click to 'TeleLanding' Link
+[INFO ] [2021-06-24 15:34:13,676] Precondition - Step 04: Click to 'Bắt đầu vay ngay' button
+[INFO ] [2021-06-24 15:34:13,792] New Customer [No Docs] - Step 01: Enter to 'lastName' Textbox with value Hammes
+[INFO ] [2021-06-24 15:34:14,395] New Customer [No Docs] - Step 02: Enter to 'middleName' Textbox with value AMRIT ACLND KRGA
+[INFO ] [2021-06-24 15:34:15,015] New Customer [No Docs] - Step 03: Enter to 'firstName' Textbox with value Hammes
+[INFO ] [2021-06-24 15:34:15,599] New Customer [No Docs] - Step 04: Enter to 'primaryPhone' Textbox with value 0766941356
+[INFO ] [2021-06-24 15:34:16,219] New Customer [No Docs] - Step 05: Click to 'MALE' RadioButton
+[INFO ] [2021-06-24 15:34:16,272] New Customer [No Docs] - Step 06: Enter to 'birthday' Textbox with value 24 / 06 / 2021
+[INFO ] [2021-06-24 15:34:17,005] New Customer [No Docs] - Step 07: Enter to 'income' Textbox with value 57168623
+[INFO ] [2021-06-24 15:34:17,607] New Customer [No Docs] - Step 08: Enter to 'homeId' Textbox with value uatuser01_tls
+[INFO ] [2021-06-24 15:34:18,206] New Customer [No Docs] - Step 09: Enter to 'idNumber' Textbox with value 442772779
+[INFO ] [2021-06-24 15:34:18,802] New Customer [No Docs] - Step 10: Enter to 'licenseNumber' Textbox with value 268373671
+[INFO ] [2021-06-24 15:34:19,398] New Customer [No Docs] - Step 11: Click to 'Kiểm tra ngay' Button
+[INFO ] [2021-06-24 15:34:24,466] New Customer [No Docs] - Step 12: Generate OTP value with 'primaryPhone'=0766941356
+[INFO ] [2021-06-24 15:34:24,821] New Customer [No Docs] - Step 13: Enter OTP value to 'OTP' Textbox
+[INFO ] [2021-06-24 15:34:25,631] New Customer [No Docs] - Step 14: Click to 'Tôi đồng ý' Checkbox
+[INFO ] [2021-06-24 15:34:25,690] New Customer [No Docs] - Step 15: Click to 'Xác nhận' Button
+[INFO ] [2021-06-24 15:34:25,744] New Customer [No Docs] - Step 16: Click to First 'Bỏ qua' button 
+[INFO ] [2021-06-24 15:34:28,574] New Customer [No Docs] - Step 17: Click to Second 'Bỏ qua' button 
+[INFO ] [2021-06-24 15:34:33,626] New Customer [No Docs] - Step 18: Click to 'VAY NGAY' Button
+[INFO ] [2021-06-24 15:35:03,247] OS name = windows 10
+[INFO ] [2021-06-24 15:35:03,978] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-06-25 16:06:03,013] Precondition - Step 01: Open TeleLanding Page
+[INFO ] [2021-06-25 16:06:26,395] Precondition - Step 02: Click to 'Advanced' button
+[INFO ] [2021-06-25 16:06:26,465] Precondition - Step 03: Click to 'TeleLanding' Link
+[INFO ] [2021-06-25 16:06:29,037] Precondition - Step 04: Click to 'Bắt đầu vay ngay' button
+[INFO ] [2021-06-25 16:06:29,152] New Customer [No Docs] - Step 01: Enter to 'lastName' Textbox with value Sawayn
+[INFO ] [2021-06-25 16:06:29,770] New Customer [No Docs] - Step 02: Enter to 'middleName' Textbox with value AMRIT ACLND KRGA
+[INFO ] [2021-06-25 16:06:30,394] New Customer [No Docs] - Step 03: Enter to 'firstName' Textbox with value Sawayn
+[INFO ] [2021-06-25 16:06:30,984] New Customer [No Docs] - Step 04: Enter to 'primaryPhone' Textbox with value 0716330317
+[INFO ] [2021-06-25 16:06:31,587] New Customer [No Docs] - Step 05: Click to 'MALE' RadioButton
+[INFO ] [2021-06-25 16:06:31,643] New Customer [No Docs] - Step 06: Enter to 'birthday' Textbox with value 25 / 06 / 2021
+[INFO ] [2021-06-25 16:06:32,593] New Customer [No Docs] - Step 07: Enter to 'income' Textbox with value 42635515
+[INFO ] [2021-06-25 16:06:33,205] New Customer [No Docs] - Step 08: Enter to 'homeId' Textbox with value uatuser01_tls
+[INFO ] [2021-06-25 16:06:33,825] New Customer [No Docs] - Step 09: Enter to 'idNumber' Textbox with value 849515838
+[INFO ] [2021-06-25 16:06:34,426] New Customer [No Docs] - Step 10: Enter to 'licenseNumber' Textbox with value 029210530
+[INFO ] [2021-06-25 16:06:35,023] New Customer [No Docs] - Step 11: Click to 'Kiểm tra ngay' Button
+[INFO ] [2021-06-25 16:06:40,106] New Customer [No Docs] - Step 12: Generate OTP value with 'primaryPhone'=0716330317
+[INFO ] [2021-06-25 16:06:40,548] New Customer [No Docs] - Step 13: Enter OTP value to 'OTP' Textbox
+[INFO ] [2021-06-25 16:06:41,133] New Customer [No Docs] - Step 14: Click to 'Tôi đồng ý' Checkbox
+[INFO ] [2021-06-25 16:06:41,187] New Customer [No Docs] - Step 15: Click to 'Xác nhận' Button
+[INFO ] [2021-06-25 16:06:41,241] New Customer [No Docs] - Step 16: Click to First 'Bỏ qua' button 
+[INFO ] [2021-06-25 16:06:42,845] New Customer [No Docs] - Step 17: Click to Second 'Bỏ qua' button 
+[INFO ] [2021-06-25 16:06:47,891] New Customer [No Docs] - Step 18: Click to 'VAY NGAY' Button
+[INFO ] [2021-06-25 16:07:16,758] OS name = windows 10
+[INFO ] [2021-06-25 16:07:17,478] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-06-27 10:45:21,279] Precondition - Step 01: Open TeleLanding Page
+[INFO ] [2021-06-27 10:45:46,470] Precondition - Step 02: Click to 'Advanced' button
+[INFO ] [2021-06-27 10:45:46,530] Precondition - Step 03: Click to 'TeleLanding' Link
+[INFO ] [2021-06-27 10:45:50,328] Precondition - Step 04: Click to 'Bắt đầu vay ngay' button
+[INFO ] [2021-06-27 10:45:50,437] New Customer [No Docs] - Step 01: Enter to 'lastName' Textbox with value Dietrich
+[INFO ] [2021-06-27 10:45:51,056] New Customer [No Docs] - Step 02: Enter to 'middleName' Textbox with value AMRIT ACLND KRGA
+[INFO ] [2021-06-27 10:45:51,691] New Customer [No Docs] - Step 03: Enter to 'firstName' Textbox with value Dietrich
+[INFO ] [2021-06-27 10:45:52,280] New Customer [No Docs] - Step 04: Enter to 'primaryPhone' Textbox with value 0198197036
+[INFO ] [2021-06-27 10:45:52,888] New Customer [No Docs] - Step 05: Click to 'MALE' RadioButton
+[INFO ] [2021-06-27 10:45:53,593] New Customer [No Docs] - Step 06: Enter to 'birthday' Textbox with value 27 / 06 / 2021
+[INFO ] [2021-06-27 10:45:54,356] New Customer [No Docs] - Step 07: Enter to 'income' Textbox with value 9307353
+[INFO ] [2021-06-27 10:45:54,948] New Customer [No Docs] - Step 08: Enter to 'homeId' Textbox with value uatuser01_tls
+[INFO ] [2021-06-27 10:45:55,553] New Customer [No Docs] - Step 09: Enter to 'idNumber' Textbox with value 336369065
+[INFO ] [2021-06-27 10:45:56,164] New Customer [No Docs] - Step 10: Enter to 'licenseNumber' Textbox with value 948820172
+[INFO ] [2021-06-27 10:45:56,763] New Customer [No Docs] - Step 11: Click to 'Kiểm tra ngay' Button
+[INFO ] [2021-06-27 10:46:01,834] New Customer [No Docs] - Step 12: Generate OTP value with 'primaryPhone'=0198197036
+[INFO ] [2021-06-27 10:46:02,373] New Customer [No Docs] - Step 13: Enter OTP value to 'OTP' Textbox
+[INFO ] [2021-06-27 10:46:02,963] New Customer [No Docs] - Step 14: Click to 'Tôi đồng ý' Checkbox
+[INFO ] [2021-06-27 10:46:03,017] New Customer [No Docs] - Step 15: Click to 'Xác nhận' Button
+[INFO ] [2021-06-27 10:46:03,065] New Customer [No Docs] - Step 16: Click to First 'Bỏ qua' button 
+[INFO ] [2021-06-27 10:46:06,473] New Customer [No Docs] - Step 17: Click to Second 'Bỏ qua' button 
+[INFO ] [2021-06-27 10:46:11,529] New Customer [No Docs] - Step 18: Click to 'VAY NGAY' Button
+[INFO ] [2021-06-27 10:46:16,607] OS name = windows 10
+[INFO ] [2021-06-27 10:46:17,353] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-06-27 10:46:36,893] Precondition - Step 01: Open TeleLanding Page
+[INFO ] [2021-06-27 10:46:59,481] Precondition - Step 02: Click to 'Advanced' button
+[INFO ] [2021-06-27 10:46:59,541] Precondition - Step 03: Click to 'TeleLanding' Link
+[INFO ] [2021-06-27 10:47:04,733] Precondition - Step 04: Click to 'Bắt đầu vay ngay' button
+[INFO ] [2021-06-27 10:47:04,850] New Customer [No Docs] - Step 01: Enter to 'lastName' Textbox with value Kuvalis
+[INFO ] [2021-06-27 10:47:05,463] New Customer [No Docs] - Step 02: Enter to 'middleName' Textbox with value AMRIT ACLND KRGA
+[INFO ] [2021-06-27 10:47:06,089] New Customer [No Docs] - Step 03: Enter to 'firstName' Textbox with value Kuvalis
+[INFO ] [2021-06-27 10:47:06,687] New Customer [No Docs] - Step 04: Enter to 'primaryPhone' Textbox with value 0777554304
+[INFO ] [2021-06-27 10:47:07,295] New Customer [No Docs] - Step 05: Click to 'MALE' RadioButton
+[INFO ] [2021-06-27 10:47:07,354] New Customer [No Docs] - Step 06: Enter to 'birthday' Textbox with value 27 / 06 / 2021
+[INFO ] [2021-06-27 10:47:08,094] New Customer [No Docs] - Step 07: Enter to 'income' Textbox with value 97542564
+[INFO ] [2021-06-27 10:47:08,684] New Customer [No Docs] - Step 08: Enter to 'homeId' Textbox with value uatuser01_tls
+[INFO ] [2021-06-27 10:47:09,947] New Customer [No Docs] - Step 09: Enter to 'idNumber' Textbox with value 965493890
+[INFO ] [2021-06-27 10:47:10,550] New Customer [No Docs] - Step 10: Enter to 'licenseNumber' Textbox with value 176923124
+[INFO ] [2021-06-27 10:47:11,156] New Customer [No Docs] - Step 11: Click to 'Kiểm tra ngay' Button
+[INFO ] [2021-06-27 10:47:16,236] New Customer [No Docs] - Step 12: Generate OTP value with 'primaryPhone'=0777554304
+[INFO ] [2021-06-27 10:47:16,632] New Customer [No Docs] - Step 13: Enter OTP value to 'OTP' Textbox
+[INFO ] [2021-06-27 10:47:17,204] New Customer [No Docs] - Step 14: Click to 'Tôi đồng ý' Checkbox
+[INFO ] [2021-06-27 10:47:17,252] New Customer [No Docs] - Step 15: Click to 'Xác nhận' Button
+[INFO ] [2021-06-27 10:47:17,303] New Customer [No Docs] - Step 16: Click to First 'Bỏ qua' button 
+[INFO ] [2021-06-27 10:47:19,706] New Customer [No Docs] - Step 17: Click to Second 'Bỏ qua' button 
+[INFO ] [2021-06-27 10:47:24,761] New Customer [No Docs] - Step 18: Click to 'VAY NGAY' Button
+[INFO ] [2021-06-27 10:50:19,223] Precondition - Step 01: Open TeleLanding Page
+[INFO ] [2021-06-27 10:50:41,713] Precondition - Step 02: Click to 'Advanced' button
+[INFO ] [2021-06-27 10:50:41,770] Precondition - Step 03: Click to 'TeleLanding' Link
+[INFO ] [2021-06-27 10:50:44,202] Precondition - Step 04: Click to 'Bắt đầu vay ngay' button
+[INFO ] [2021-06-27 10:50:44,304] New Customer [No Docs] - Step 01: Enter to 'lastName' Textbox with value Lebsack
+[INFO ] [2021-06-27 10:50:44,918] New Customer [No Docs] - Step 02: Enter to 'middleName' Textbox with value AMRIT ACLND KRGA
+[INFO ] [2021-06-27 10:50:45,531] New Customer [No Docs] - Step 03: Enter to 'firstName' Textbox with value Lebsack
+[INFO ] [2021-06-27 10:50:46,123] New Customer [No Docs] - Step 04: Enter to 'primaryPhone' Textbox with value 0048833361
+[INFO ] [2021-06-27 10:50:47,370] New Customer [No Docs] - Step 05: Click to 'MALE' RadioButton
+[INFO ] [2021-06-27 10:50:47,429] New Customer [No Docs] - Step 06: Enter to 'birthday' Textbox with value 27 / 06 / 2021
+[INFO ] [2021-06-27 10:50:48,194] New Customer [No Docs] - Step 07: Enter to 'income' Textbox with value 62193975
+[INFO ] [2021-06-27 10:50:48,792] New Customer [No Docs] - Step 08: Enter to 'homeId' Textbox with value uatuser01_tls
+[INFO ] [2021-06-27 10:50:49,411] New Customer [No Docs] - Step 09: Enter to 'idNumber' Textbox with value 030007513
+[INFO ] [2021-06-27 10:50:50,003] New Customer [No Docs] - Step 10: Enter to 'licenseNumber' Textbox with value 638410462
+[INFO ] [2021-06-27 10:50:50,598] New Customer [No Docs] - Step 11: Click to 'Kiểm tra ngay' Button
+[INFO ] [2021-06-27 10:50:55,662] New Customer [No Docs] - Step 12: Generate OTP value with 'primaryPhone'=0048833361
+[INFO ] [2021-06-27 10:50:56,007] New Customer [No Docs] - Step 13: Enter OTP value to 'OTP' Textbox
+[INFO ] [2021-06-27 10:50:56,584] New Customer [No Docs] - Step 14: Click to 'Tôi đồng ý' Checkbox
+[INFO ] [2021-06-27 10:50:56,637] New Customer [No Docs] - Step 15: Click to 'Xác nhận' Button
+[INFO ] [2021-06-27 10:50:56,685] New Customer [No Docs] - Step 16: Click to First 'Bỏ qua' button 
+[INFO ] [2021-06-27 10:50:58,828] New Customer [No Docs] - Step 17: Click to Second 'Bỏ qua' button 
+[INFO ] [2021-06-27 10:51:04,396] New Customer [No Docs] - Step 18: Click to 'VAY NGAY' Button
+[INFO ] [2021-06-27 11:20:52,151] Precondition - Step 01: Open TeleLanding Page
+[INFO ] [2021-06-27 11:21:14,716] Precondition - Step 02: Click to 'Advanced' button
+[INFO ] [2021-06-27 11:21:14,775] Precondition - Step 03: Click to 'TeleLanding' Link
+[INFO ] [2021-06-27 11:21:17,824] Precondition - Step 04: Click to 'Bắt đầu vay ngay' button
+[INFO ] [2021-06-27 11:21:17,937] New Customer [No Docs] - Step 01: Enter to 'lastName' Textbox with value Stroman
+[INFO ] [2021-06-27 11:21:19,186] New Customer [No Docs] - Step 02: Enter to 'middleName' Textbox with value AMRIT ACLND KRGA
+[INFO ] [2021-06-27 11:21:19,811] New Customer [No Docs] - Step 03: Enter to 'firstName' Textbox with value Stroman
+[INFO ] [2021-06-27 11:21:20,406] New Customer [No Docs] - Step 04: Enter to 'primaryPhone' Textbox with value 0749467734
+[INFO ] [2021-06-27 11:21:21,016] New Customer [No Docs] - Step 05: Click to 'MALE' RadioButton
+[INFO ] [2021-06-27 11:21:21,070] New Customer [No Docs] - Step 06: Enter to 'birthday' Textbox with value 27 / 06 / 2021
+[INFO ] [2021-06-27 11:21:21,819] New Customer [No Docs] - Step 07: Enter to 'income' Textbox with value 66785206
+[INFO ] [2021-06-27 11:21:22,406] New Customer [No Docs] - Step 08: Enter to 'homeId' Textbox with value uatuser01_tls
+[INFO ] [2021-06-27 11:21:23,007] New Customer [No Docs] - Step 09: Enter to 'idNumber' Textbox with value 550772996
+[INFO ] [2021-06-27 11:21:23,602] New Customer [No Docs] - Step 10: Enter to 'licenseNumber' Textbox with value 716971548
+[INFO ] [2021-06-27 11:21:24,199] New Customer [No Docs] - Step 11: Click to 'Kiểm tra ngay' Button
+[INFO ] [2021-06-27 11:21:29,261] New Customer [No Docs] - Step 12: Generate OTP value with 'primaryPhone'=0749467734
+[INFO ] [2021-06-27 11:21:29,623] New Customer [No Docs] - Step 13: Enter OTP value to 'OTP' Textbox
+[INFO ] [2021-06-27 11:21:30,199] New Customer [No Docs] - Step 14: Click to 'Tôi đồng ý' Checkbox
+[INFO ] [2021-06-27 11:21:30,253] New Customer [No Docs] - Step 15: Click to 'Xác nhận' Button
+[INFO ] [2021-06-27 11:21:30,303] New Customer [No Docs] - Step 16: Click to First 'Bỏ qua' button 
+[INFO ] [2021-06-27 11:21:33,244] New Customer [No Docs] - Step 17: Click to Second 'Bỏ qua' button 
+[INFO ] [2021-06-27 11:21:38,288] New Customer [No Docs] - Step 18: Click to 'VAY NGAY' Button
+[INFO ] [2021-06-27 11:21:58,320] OS name = windows 10
+[INFO ] [2021-06-27 11:21:59,087] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-06-27 11:29:38,024] Precondition - Step 01: Open TeleLanding Page
+[INFO ] [2021-06-27 11:30:00,561] Precondition - Step 02: Click to 'Advanced' button
+[INFO ] [2021-06-27 11:30:00,617] Precondition - Step 03: Click to 'TeleLanding' Link
+[INFO ] [2021-06-27 11:30:05,555] Precondition - Step 04: Click to 'Bắt đầu vay ngay' button
+[INFO ] [2021-06-27 11:30:05,658] New Customer [No Docs] - Step 01: Enter to 'lastName' Textbox with value Botsford
+[INFO ] [2021-06-27 11:30:06,276] New Customer [No Docs] - Step 02: Enter to 'middleName' Textbox with value AMRIT ACLND KRGA
+[INFO ] [2021-06-27 11:30:06,902] New Customer [No Docs] - Step 03: Enter to 'firstName' Textbox with value Botsford
+[INFO ] [2021-06-27 11:30:07,493] New Customer [No Docs] - Step 04: Enter to 'primaryPhone' Textbox with value 0779239128
+[INFO ] [2021-06-27 11:30:08,112] New Customer [No Docs] - Step 05: Click to 'MALE' RadioButton
+[INFO ] [2021-06-27 11:30:08,166] New Customer [No Docs] - Step 06: Enter to 'birthday' Textbox with value 27 / 06 / 2021
+[INFO ] [2021-06-27 11:30:08,889] New Customer [No Docs] - Step 07: Enter to 'income' Textbox with value 19685640
+[INFO ] [2021-06-27 11:30:09,622] New Customer [No Docs] - Step 08: Enter to 'homeId' Textbox with value uatuser01_tls
+[INFO ] [2021-06-27 11:30:10,241] New Customer [No Docs] - Step 09: Enter to 'idNumber' Textbox with value 617131633
+[INFO ] [2021-06-27 11:30:10,839] New Customer [No Docs] - Step 10: Enter to 'licenseNumber' Textbox with value 536135699
+[INFO ] [2021-06-27 11:30:11,460] New Customer [No Docs] - Step 11: Click to 'Kiểm tra ngay' Button
+[INFO ] [2021-06-27 11:30:16,535] New Customer [No Docs] - Step 12: Generate OTP value with 'primaryPhone'=0779239128
+[INFO ] [2021-06-27 11:30:16,893] New Customer [No Docs] - Step 13: Enter OTP value to 'OTP' Textbox
+[INFO ] [2021-06-27 11:30:17,478] New Customer [No Docs] - Step 14: Click to 'Tôi đồng ý' Checkbox
+[INFO ] [2021-06-27 11:30:17,533] New Customer [No Docs] - Step 15: Click to 'Xác nhận' Button
+[INFO ] [2021-06-27 11:30:17,591] New Customer [No Docs] - Step 16: Click to First 'Bỏ qua' button 
+[INFO ] [2021-06-27 11:30:19,755] New Customer [No Docs] - Step 17: Click to Second 'Bỏ qua' button 
+[INFO ] [2021-06-27 11:30:25,326] New Customer [No Docs] - Step 18: Click to 'VAY NGAY' Button
+[INFO ] [2021-06-27 11:30:30,364] New Customer [No Docs] - Step 19: Verify Success Message is displayed with value 'Hợp đồng đã được duyệt'
+[INFO ] [2021-06-27 11:34:36,273] OS name = windows 10
+[INFO ] [2021-06-27 11:34:37,000] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-06-28 15:50:22,211] Precondition - Step 01: Open TeleLanding Page
+[INFO ] [2021-06-28 15:50:44,746] Precondition - Step 02: Click to 'Advanced' button
+[INFO ] [2021-06-28 15:50:44,818] Precondition - Step 03: Click to 'TeleLanding' Link
+[INFO ] [2021-06-28 15:50:47,361] Precondition - Step 04: Click to 'Bắt đầu vay ngay' button
+[INFO ] [2021-06-28 15:50:47,475] New Customer [No Docs] - Step 01: Enter to 'lastName' Textbox with value Blanda
+[INFO ] [2021-06-28 15:50:48,089] New Customer [No Docs] - Step 02: Enter to 'middleName' Textbox with value AMRIT ACLND KRGA
+[INFO ] [2021-06-28 15:50:48,706] New Customer [No Docs] - Step 03: Enter to 'firstName' Textbox with value Blanda
+[INFO ] [2021-06-28 15:50:49,298] New Customer [No Docs] - Step 04: Enter to 'primaryPhone' Textbox with value 0609639966
+[INFO ] [2021-06-28 15:50:49,900] New Customer [No Docs] - Step 05: Click to 'MALE' RadioButton
+[INFO ] [2021-06-28 15:50:49,958] New Customer [No Docs] - Step 06: Enter to 'birthday' Textbox with value 28 / 06 / 2021
+[INFO ] [2021-06-28 15:50:51,375] New Customer [No Docs] - Step 07: Enter to 'income' Textbox with value 17217515
+[INFO ] [2021-06-28 15:50:51,976] New Customer [No Docs] - Step 08: Enter to 'homeId' Textbox with value uatuser01_tls
+[INFO ] [2021-06-28 15:50:52,579] New Customer [No Docs] - Step 09: Enter to 'idNumber' Textbox with value 651848089
+[INFO ] [2021-06-28 15:50:53,188] New Customer [No Docs] - Step 10: Enter to 'licenseNumber' Textbox with value 186616409
+[INFO ] [2021-06-28 15:50:53,805] New Customer [No Docs] - Step 11: Click to 'Kiểm tra ngay' Button
+[INFO ] [2021-06-28 15:50:58,881] New Customer [No Docs] - Step 12: Generate OTP value with 'primaryPhone'=0609639966
+[INFO ] [2021-06-28 15:50:59,277] OS name = windows 10
+[INFO ] [2021-06-28 15:51:00,034] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-06-28 15:51:07,681] Precondition - Step 01: Open TeleLanding Page
+[INFO ] [2021-06-28 15:51:30,216] Precondition - Step 02: Click to 'Advanced' button
+[INFO ] [2021-06-28 15:51:30,285] Precondition - Step 03: Click to 'TeleLanding' Link
+[INFO ] [2021-06-28 15:51:34,594] Precondition - Step 04: Click to 'Bắt đầu vay ngay' button
+[INFO ] [2021-06-28 15:51:34,704] New Customer [No Docs] - Step 01: Enter to 'lastName' Textbox with value Bahringer
+[INFO ] [2021-06-28 15:51:35,342] New Customer [No Docs] - Step 02: Enter to 'middleName' Textbox with value AMRIT ACLND KRGA
+[INFO ] [2021-06-28 15:51:35,965] New Customer [No Docs] - Step 03: Enter to 'firstName' Textbox with value Bahringer
+[INFO ] [2021-06-28 15:51:36,552] New Customer [No Docs] - Step 04: Enter to 'primaryPhone' Textbox with value 0762532794
+[INFO ] [2021-06-28 15:51:37,158] New Customer [No Docs] - Step 05: Click to 'MALE' RadioButton
+[INFO ] [2021-06-28 15:51:37,212] New Customer [No Docs] - Step 06: Enter to 'birthday' Textbox with value 28 / 06 / 2021
+[INFO ] [2021-06-28 15:51:37,962] New Customer [No Docs] - Step 07: Enter to 'income' Textbox with value 76263181
+[INFO ] [2021-06-28 15:51:39,185] New Customer [No Docs] - Step 08: Enter to 'homeId' Textbox with value uatuser01_tls
+[INFO ] [2021-06-28 15:51:39,797] New Customer [No Docs] - Step 09: Enter to 'idNumber' Textbox with value 750358366
+[INFO ] [2021-06-28 15:51:40,399] New Customer [No Docs] - Step 10: Enter to 'licenseNumber' Textbox with value 415605760
+[INFO ] [2021-06-28 15:51:41,008] New Customer [No Docs] - Step 11: Click to 'Kiểm tra ngay' Button
+[INFO ] [2021-06-28 15:51:46,073] New Customer [No Docs] - Step 12: Generate OTP value with 'primaryPhone'=0762532794
+[INFO ] [2021-06-28 15:51:46,433] New Customer [No Docs] - Step 13: Enter OTP value to 'OTP' Textbox
+[INFO ] [2021-06-28 15:51:47,018] New Customer [No Docs] - Step 14: Click to 'Tôi đồng ý' Checkbox
+[INFO ] [2021-06-28 15:51:47,073] New Customer [No Docs] - Step 15: Click to 'Xác nhận' Button
+[INFO ] [2021-06-28 15:51:47,134] New Customer [No Docs] - Step 16: Click to First 'Bỏ qua' button 
+[INFO ] [2021-06-28 15:51:49,107] New Customer [No Docs] - Step 17: Click to Second 'Bỏ qua' button 
+[INFO ] [2021-06-28 15:51:54,158] New Customer [No Docs] - Step 18: Click to 'VAY NGAY' Button
+[INFO ] [2021-06-28 15:53:23,494] OS name = windows 10
+[INFO ] [2021-06-28 15:53:24,262] ---------- QUIT BROWSER SUCCESS ----------
