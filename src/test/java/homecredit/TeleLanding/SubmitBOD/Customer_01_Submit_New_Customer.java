@@ -18,7 +18,7 @@ import utilities.FakerConfig;
 
 public class Customer_01_Submit_New_Customer extends AbstractTest {
 	@Parameters({ "browser", "url" })
-	@BeforeMethod
+	@BeforeMethod(groups = "smoke")
 	public void beforeTest(String browserName, String url) {
 
 		fakeData = FakerConfig.getFakeData();
@@ -48,7 +48,7 @@ public class Customer_01_Submit_New_Customer extends AbstractTest {
 		nhapThongTinVayPage = PageGeneratorManager.getNhapThongTinVayPage(driver);
 	}
 	
-	@Test
+	@Test(groups = "smoke")
 	public void TC_01_Submit_New_Customer_Info_No_Docs() {
 		log.info("New Customer [No Docs] - Step 01: Enter to 'lastName' Textbox with value "+ lastName +"");
 		nhapThongTinVayPage.enterToLastNameTextbox(lastName);
@@ -115,7 +115,7 @@ public class Customer_01_Submit_New_Customer extends AbstractTest {
 		verifyEquals(applicationPage.getDocumentText(), "Vui lòng mang bản gốc CMND,Sổ hộ khẩu/Giấy phép lái xe, để hoàn tất hồ sơ tại cửa hàng gần nhất.");
 	}
 
-	@Test
+	@Test(groups = "smoke")
 	public void TC_02_Submit_New_Customer_Info_Have_Docs() {
 		log.info("New Customer [Have Docs] - Step 01: Enter to 'lastName' Textbox with value "+ lastName +"");
 		nhapThongTinVayPage.enterToLastNameTextbox(lastName);
@@ -191,7 +191,7 @@ public class Customer_01_Submit_New_Customer extends AbstractTest {
 		verifyEquals(applicationPage.getDocumentText(), "Vui lòng mang bản gốc CMND,Sổ hộ khẩu/Giấy phép lái xe, để hoàn tất hồ sơ tại cửa hàng gần nhất.");
 	}
 
-	@AfterMethod(alwaysRun = true)
+	@AfterMethod(alwaysRun = true, groups = "smoke")
 	public void afterTest() {
 		closeBrowserAndDriver(driver);
 	}

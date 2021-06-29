@@ -3,6 +3,8 @@
 <suite name="Failed suite [Homecredit-TeleLandingPage]">
   <parameter name="url" value="https://telelandingpage.apps-nonprod.platform.hcnet.vn/prospect/25284379"/>
   <listeners>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
     <listener class-name="commons.MethodListener"/>
   </listeners>
   <test thread-count="5" name="Test(failed)">
@@ -11,7 +13,6 @@
       <class name="homecredit.TeleLanding.SubmitBOD.Customer_01_Submit_New_Customer">
         <methods>
           <include name="TC_01_Submit_New_Customer_Info_No_Docs"/>
-          <include name="TC_02_Submit_New_Customer_Info_Have_Docs"/>
           <include name="beforeTest"/>
           <include name="afterTest"/>
         </methods>

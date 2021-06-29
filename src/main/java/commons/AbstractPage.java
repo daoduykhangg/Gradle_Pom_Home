@@ -114,6 +114,7 @@ public class AbstractPage {
 
 	protected void clickToElement(WebDriver driver, String locator) {
 		element = getElement(driver, locator);
+		sleepInMiliSecond(500);
 		element.click();
 	}
 
