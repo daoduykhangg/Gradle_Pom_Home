@@ -54,6 +54,10 @@ dependencies {
 	
 	// https://mvnrepository.com/artifact/com.oracle.database.jdbc/ojdbc8
 	implementation group: 'com.oracle.database.jdbc', name: 'ojdbc8', version: '19.7.0.0'
+
+	//ojdbc10 for jdk 10
+	//https://mvnrepository.com/artifact/com.oracle.database.jdbc/ojdbc10
+	implementation group: 'com.oracle.database.jdbc', name: 'ojdbc10', version: '19.8.0.0'
 	
 }
 compileJava.options.encoding = "UTF-8"
