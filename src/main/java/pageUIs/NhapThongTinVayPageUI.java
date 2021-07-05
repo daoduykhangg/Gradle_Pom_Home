@@ -12,4 +12,5 @@ public class NhapThongTinVayPageUI {
 	public static final String IDNUMBER_TEXTBOX = "//input[@name='idNumber']";
 	public static final String LICENSE_NUMBER_TEXTBOX = "//input[@name='licenseNumber']";
 	public static final String KIEM_TRA_NGAY_BUTTON = "//button[text()='Kiểm tra ngay']";
+    public static final String GENDER_FEMALE_RADIOBUTTON = "//span[text()='Nữ']/preceding-sibling::div";
 }

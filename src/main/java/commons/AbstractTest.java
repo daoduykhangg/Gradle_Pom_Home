@@ -1,5 +1,9 @@
 package commons;
 
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.IOException;
+import java.util.Properties;
 import java.util.Random;
 import java.util.concurrent.TimeUnit;
 
@@ -196,6 +200,20 @@ public class AbstractTest {
 			log.info("---------- QUIT BROWSER SUCCESS ----------");
 		} catch (Exception e) {
 			log.info(e.getMessage());
+		}
+	}
+	public java.util.Properties properties = null;
+
+	protected void getDataFromProperties() {
+		properties = new Properties();
+		try {
+			FileInputStream inputStream = new FileInputStream("./configs/DataSets.properties");
+			properties.load(inputStream);
+
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+		} catch (IOException e) {
+			e.printStackTrace();
 		}
 	}
 }

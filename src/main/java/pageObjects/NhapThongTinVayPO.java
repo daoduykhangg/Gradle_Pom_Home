@@ -71,4 +71,8 @@ public class NhapThongTinVayPO extends AbstractPage{
 		sleepInSecond(5);
 	}
 
+    public void clickToFemaleRadioButton() {
+		waitForElementClickable(driver, NhapThongTinVayPageUI.GENDER_FEMALE_RADIOBUTTON);
+		clickToElement(driver, NhapThongTinVayPageUI.GENDER_FEMALE_RADIOBUTTON);
+    }
 }

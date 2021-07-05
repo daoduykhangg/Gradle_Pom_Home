@@ -13,6 +13,7 @@
 		<parameter name="browser" value="chrome_ui" />
 		<classes>
 			<class name="homecredit.TeleLanding.SubmitBOD.Customer_01_Submit_New_Customer" />
+			<class name="homecredit.TeleLanding.SubmitBOD.Existing_Customer_Submit_1BOD" />
 		</classes>
 	</test> <!-- Test -->
 </suite> <!-- Suite -->
